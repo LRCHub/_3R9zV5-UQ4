@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "有些事現在不做一輩子都不會做了",
+  "base_artist": "五月天",
+  "createdAt": "2026-03-13T18:15:04.977471Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "有些事現在不做一輩子都不會做了",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/01_有些事現在不做一輩子都不會做了_五月天.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "有些事現在不做一輩子都不會做了",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/02_有些事現在不做一輩子都不會做了_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "有些事現在不做一輩子都不會做了 - Live",
+      "artist": "Mayday",
+      "has_synced": false,
+      "path": "select/03_有些事現在不做一輩子都不會做了_-_Live_Mayday.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "有些事現在不做一輩子都不會做了(啟航版) - Live",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/04_有些事現在不做一輩子都不會做了(啟航版)_-_Live_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "有些事現在不做一輩子都不會做了",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/05_有些事現在不做一輩子都不會做了_五月天.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "有些事現在不做一輩子都不會做了（啟航版）",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/06_有些事現在不做一輩子都不會做了(啟航版)_五月天.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "有些事現在不做一輩子都不會做了",
+      "artist": "Mayday",
+      "has_synced": false,
+      "path": "select/pl_01_有些事現在不做一輩子都不會做了_Mayday.txt"
+    }
+  ]
+}
